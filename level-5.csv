@@ -1,0 +1,24 @@
+index,D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Chloroplast;D_4__uncultured bacterium,D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Chloroplast;__,D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Nostocales;D_4__Cyanobacteriaceae,D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Nostocales;D_4__Microcystaceae,D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Nostocales;D_4__Nostocaceae,D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Nostocales;D_4__Paraspirulinaceae,D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Nostocales;D_4__Phormidiaceae,D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Nostocales;D_4__Xenococcaceae,D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Oxyphotobacteria Incertae Sedis;D_4__Unknown Family,D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Phormidesmiales;D_4__Nodosilineaceae,D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Phormidesmiales;D_4__Phormidesmiaceae,D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Synechococcales;D_4__Cyanobiaceae,D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Thermosynechococcales;D_4__Acaryochloridaceae,D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;__;__,Reverse primer pad,Reverse primer linker,Depth
+Mi.Z3,0,12,348,3,828,0,12,5012,421,3237,351,55,199,317,ACGAGACTGATT,AGTCAGTCAG,3
+Mi.Z10,0,44,5,0,0,9,0,28,0,12,0,15,4,0,AGTCGAACGAGG,AGTCAGTCAT,10
+Mi.Z20,0,25,0,0,0,0,0,12,0,0,0,0,6,0,CGAGCAATCCTA,AGTCAGTCAC,20
+Mi.Z30,3,11,5,0,0,0,12,19,0,9,0,0,5,0,TGCAGTCCTCGA,AGTCAGTCAA,30
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Transpose,,,,,,,,,,,,,,,,,
+index,Mi.Z3,Mi.Z10,Mi.Z20,Mi.Z30,komárek,z3,z10,z20,z30,,,Absolute abundance,,,,,
+D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Chloroplast;D_4__uncultured bacterium,0,0,0,3,null,0,0,0,3,,,z3,z10,z20,z30,,
+D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Chloroplast;__,12,44,25,11,null,12,44,25,11,,chroococcales,351,5,5,5,,
+D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Nostocales;D_4__Cyanobacteriaceae,348,5,0,5,chroococcales,348,5,0,5,,nostocales,828,0,0,0,,
+D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Nostocales;D_4__Microcystaceae,3,0,0,0,chroococcales,3,0,0,0,,oscillatriales,12,0,0,12,,
+D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Nostocales;D_4__Nostocaceae,828,0,0,0,nostocales,828,0,0,0,,pleurocapsales,5012,28,12,19,,
+D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Nostocales;D_4__Paraspirulinaceae,0,9,0,0,null,0,9,0,0,,synechococales,3842,31,6,14,,
+D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Nostocales;D_4__Phormidiaceae,12,0,0,12,oscillatriales,12,0,0,12,,,,,,,,
+D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Nostocales;D_4__Xenococcaceae,5012,28,12,19,pleurocapsales,5012,28,12,19,,,Relative abundance,,,,,
+D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Oxyphotobacteria Incertae Sedis;D_4__Unknown Family,421,0,0,0,null,421,0,0,0,,,z3,z10,z20,z30,,
+D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Phormidesmiales;D_4__Nodosilineaceae,3237,12,0,9,synechococales,3237,12,0,9,,chroococcales,0.031567944,0.083333333,0.294117647,0.111111111,,
+D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Phormidesmiales;D_4__Phormidesmiaceae,351,0,0,0,synechococales,351,0,0,0,,nostocales,0.075958188,0,0,0,,
+D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Synechococcales;D_4__Cyanobiaceae,55,15,0,0,synechococales,55,15,0,0,,oscillatoriales,0.075958188,0,0,0.266666667,,
+D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Thermosynechococcales;D_4__Acaryochloridaceae,199,4,6,5,synechococales,199,4,6,5,,pleurocapsales,0.487944251,0.466666667,0.705882353,0.422222222,,
+D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;__;__,317,0,0,0,null,317,0,0,0,,synechococales,0.328571429,0.45,0,0.2,,
+,,,,,,,,,,,,,,,,,
